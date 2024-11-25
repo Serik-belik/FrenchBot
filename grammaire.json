@@ -1,0 +1,91 @@
+{
+	"les prépositions de lieu (1)": {
+		"Task": "Complétez la phrase avec  » au « ,  » à la « ,  » à l’ « ,  » aux « ,  » du « ,  » de la « ,  » de l’ « ,  » des « ,  » chez le / la / les / l’  »",
+		"Questions": [{
+			"Q": "Ils ont un rendez-vous ___ dentiste.",
+			"V": ["au", "à la", "chez la", "chez le"],
+			"C": "chez le"
+							}, {
+			"Q": "Il va ___ cabinet médical.",
+			"V": ["au", "chez le", "du", "à la"],
+			"C": "au"
+							}, {
+			"Q": "Nous allons ___ Pierre.",
+			"V": ["chez", "au", "du", "chez le"],
+			"C": "chez"
+							}, {
+			"Q": "Tu viens ___ café.",
+			"V": ["à la", "au", "de la", "du"],
+			"C": "du"
+							}, {
+			"Q": "Tu viens ___ cinéma.",
+			"V": ["au ", "à la", "du", "de la"],
+			"C": "du"
+							}, {
+			"Q": "Elle va ___ boulanger.",
+			"V": ["chez le", "au", "du", "à le"],
+			"C": "chez le"
+							}, {
+			"Q": "Je vais ___ tours de la Rochelle.",
+			"V": ["à la", "aux", "chez les", "au"],
+			"C": "aux"
+							}, {
+			"Q": "Il va ___ toilettes.",
+			"V": ["au", "à la", "aux", "des"],
+			"C": "aux"
+							}, {
+			"Q": "Tu viens ___ bibliothèque.",
+			"V": ["de la", "au", "du", "à la"],
+			"C": "de la"
+							}, {
+			"Q": "Vous allez ___ Élodie.",
+			"V": ["à la", "chez la", "chez", "de la"],
+			"C": "chez"
+							}, {
+			"Q": "Vous allez ___ coiffeur.",
+			"V": ["chez", "au", "à la", "chez le"],
+			"C": "chez le"
+							}, {
+			"Q": "Il va ___ cabinet médical.",
+			"V": ["au", "à la", "chez le", "chez la"],
+			"C": "au"
+							}, {
+			"Q": "Nous allons ___ cinéma.",
+			"V": ["au", "chez le", "à la", "à le"],
+			"C": "au"
+							}, {
+			"Q": "Tu viens ___ marché.",
+			"V": ["du", "de la", "au", "des"],
+			"C": "du"
+							}, {
+			"Q": "Tu vas ___ hôpital.",
+			"V": ["au", "à la", "à le", "à l’"],
+			"C": "à l’"
+							}, {
+			"Q": "Vous allez ___ poste.",
+			"V": ["à la", "de la", "chez le", "au"],
+			"C": "à la"
+							}, {
+			"Q": "Tu viens ___ aéroport.",
+			"V": ["à l’", "au", "du", "de l’"],
+			"C": "de l’"
+							}, {
+			"Q": "Tu vas ___ piscine.",
+			"V": ["à la", "chez le", "du", "au"],
+			"C": "à la"
+							}, {
+			"Q": "Je viens ___ thermes.",
+			"V": ["aux", "des", "chez les", "de la"],
+			"C": "des"
+							}, {
+			"Q": "Ils vont ___ stade.",
+			"V": ["à la", "au", "du", "chez la"],
+			"C": "au"}]},
+	"la quantité non définie": {
+	
+	}, 
+	
+	"fff": {
+	
+	}
+}
